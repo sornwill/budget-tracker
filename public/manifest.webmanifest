@@ -1,0 +1,21 @@
+{
+    "name":"budget-tracker",
+    "short_name":"Budget Tracker",
+    "description":"A web app that tracks budgets",
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fffffff",
+    "background_color": "#ffffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
