@@ -5,17 +5,15 @@
     "icons": [
         {
             "src": "/assets/icons/icon-192x192.png",
-            "sizes": "192x192",
+            "sizes": "192x169",
             "type": "image/png"
         },
         {
             "src": "/assets/icons/icon-512x512.png",
-            "sizes": "512x512",
+            "sizes": "512x452",
             "type": "image/png"
         }
     ],
-    "theme_color": "#fffffff",
-    "background_color": "#ffffffff",
     "start_url": "/",
     "display": "standalone"
 }
