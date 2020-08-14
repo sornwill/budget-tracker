@@ -1,5 +1,5 @@
   
-# fitness-tracker
+# budget-tracker
 ![licenseBadge](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Table of Contents 
 1. [Description](#description)
